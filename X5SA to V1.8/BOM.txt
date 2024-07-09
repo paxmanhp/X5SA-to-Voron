@@ -22,6 +22,7 @@ This is the minimum required parts that need to be sourced to complete the build
 #F695 bearings- 20
 #2GT Toothed Idler- 2
 #5x30mm Pin
+#60x20mm fan- 2
 #M5 tap
 #4mm magnets- 8
 #Panels
