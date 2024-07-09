@@ -1,0 +1,34 @@
+########## X5SA to V1.8 ##########
+
+This folder contains most of the parts you will need to complete the build. I left out the toolhead files as that will depend on what configuration you want  to go with but note that I used a single MGN12H for the X-axis.
+Aditionally you will need mounts for your specific main board, I included ones for the Manta M8P as thats what I used.
+
+-----BOM-----
+This is the minimum required parts that need to be sourced to complete the build, many parts can be rteused from the X5SA. Upgraded parts and hardware are not listed are not listed, look through the official BOM to find what you need.
+
+
+#2020 extrusions
+	490mm x2
+	452mm
+	420mm x2
+	360mm
+	265mm x2
+#MGN9H- 350mm x2
+#MGN12H- 418mm
+#Controller Board with 5 or more stepper outputs
+#Screen
+#GT2 belt
+#DIN rails- 488mm x2
+#F695 bearings- 20
+#2GT Toothed Idler- 2
+#5x30mm Pin
+#M5 tap
+#Panels
+	Doors- 540x250mm x2
+	Sides- 540x430mm
+	Rear- 540x500
+	Top- 500x470
+	Electronics cover- 490x460
+
+#Cut lead screws to 360mm
+#Cut 8mm rods to 390mm
