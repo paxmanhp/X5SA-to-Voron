@@ -23,6 +23,7 @@ This is the minimum required parts that need to be sourced to complete the build
 #2GT Toothed Idler- 2
 #5x30mm Pin
 #M5 tap
+#4mm magnets- 8
 #Panels
 	Doors- 540x250mm x2
 	Sides- 540x430mm
