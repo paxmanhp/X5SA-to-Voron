@@ -1,10 +1,10 @@
 ########## X5SA to V1.8 ##########
 
-This folder contains most of the parts you will need to complete the build. I left out the toolhead files as that will depend on what configuration you want  to go with but note that I used a single MGN12H for the X-axis.
-Aditionally you will need mounts for your specific main board, I included ones for the Manta M8P as thats what I used.
+This folder contains most of the necessary parts to complete the build. I left out the toolhead files as that will depend on what configuration you want  to go with but note that I used a single MGN12H for the X-axis.
+Additionally, you will need mounts for your specific main board, I included ones for the Manta M8P as that is what I used.
 
 -----BOM-----
-This is the minimum required parts that need to be sourced to complete the build, many parts can be rteused from the X5SA. Upgraded parts and hardware are not listed are not listed, look through the official BOM to find what you need.
+This is the minimum required parts that need to be sourced to complete the build, many parts can be reused from the X5SA. Upgraded parts and hardware are not listed are not listed, look through the official BOM to find what you need.
 
 
 #2020 extrusions
